@@ -1,38 +1,38 @@
 [
     {
         "nome": "Calça Cargo",
-        "tamanho": 42,
-        "preço": 139.99,
+        "tamanho": "G",
+        "preço": 149.99,
         "imagem": "img/teste.jpg"
         
     },
     {
         "nome": "Camiseta Clean",
-        "tamanho": 40,
-        "preço": 110.99,
+        "tamanho": "G",
+        "preço": 109.99,
         "imagem": "img/teste.jpg"
     },
     {
         "nome": "Meia Esportiva",
-        "tamanho": 46,
-        "preço": 19.99,
+        "tamanho": "G",
+        "preço": 24.99,
         "imagem": "img/teste.jpg"
     },
     {
         "nome": "Tênis Vans",
-        "tamanho": 39,
-        "preço": 129.99,
+        "tamanho": 40,
+        "preço": 124.99,
         "imagem": "img/teste.jpg"
     },
     {
         "nome": "Moletom Clean",
-        "tamanho": 45,
-        "preço": 149.99,
+        "tamanho": "G",
+        "preço": 174.99,
         "imagem": "img/teste.jpg"
     },
     {
         "nome": "Brincos de Prata Pura",
-        "tamanho": 12,
+        "tamanho": 10"mm",
         "preço": 74.99,
         "imagem": "img/teste.jpg"
     }
